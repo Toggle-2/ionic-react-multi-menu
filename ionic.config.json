@@ -1,0 +1,7 @@
+{
+  "name": "multi-menu-react",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
